@@ -6,8 +6,8 @@ class App extends Component {
     return (
       <div className="App">
       <header>
-        <h1>RSVP</h1>
-        <p>A Treehouse App</p>
+        <h1>WRANGLERS</h1>
+        <p>A WUSD Quiz APP</p>
         <form>
             <input type="text" value="Safia" placeholder="Invite Someone" />
             <button type="submit" name="submit" value="submit">Submit</button>
