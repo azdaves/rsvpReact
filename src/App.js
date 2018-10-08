@@ -13,9 +13,15 @@ class App extends Component {
       {
         name: 'Nic',
         isConfirmed: true
-      }
+      },
+      {
+        name: 'DS',
+        isConfirmed: true
+      },
     ]
   };
+
+  
 
   getTotalInvited = () => this.state.guests.length;
   // getAttendingGuests = () =>
